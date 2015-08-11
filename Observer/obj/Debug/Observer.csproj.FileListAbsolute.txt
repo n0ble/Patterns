@@ -1,0 +1,5 @@
+D:\Dev\Patterns\Observer\bin\Debug\Observer.exe
+D:\Dev\Patterns\Observer\bin\Debug\Observer.exe.config
+D:\Dev\Patterns\Observer\obj\Debug\Observer.exe
+D:\Dev\Patterns\Observer\obj\Debug\Observer.pdb
+D:\Dev\Patterns\Observer\bin\Debug\Observer.pdb
