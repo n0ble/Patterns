@@ -5,6 +5,14 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{0084BA1B-6AC9-40C7-B36D-05A6E94D7842}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{A6247E48-0ACF-4D7F-824E-97650FCF6365}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Concepts", "Concepts", "{D438C6E5-052B-473F-9B4E-CEA37C5E6CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serialization\Serialization.csproj", "{3A351E5E-BF86-42F0-995B-806253EAC992}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patterns", "Patterns", "{A205CCB0-5EDF-45ED-AACA-BBF812EEAF48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +23,21 @@ Global
 		{0084BA1B-6AC9-40C7-B36D-05A6E94D7842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0084BA1B-6AC9-40C7-B36D-05A6E94D7842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0084BA1B-6AC9-40C7-B36D-05A6E94D7842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6247E48-0ACF-4D7F-824E-97650FCF6365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6247E48-0ACF-4D7F-824E-97650FCF6365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6247E48-0ACF-4D7F-824E-97650FCF6365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6247E48-0ACF-4D7F-824E-97650FCF6365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A351E5E-BF86-42F0-995B-806253EAC992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A351E5E-BF86-42F0-995B-806253EAC992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A351E5E-BF86-42F0-995B-806253EAC992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A351E5E-BF86-42F0-995B-806253EAC992}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0084BA1B-6AC9-40C7-B36D-05A6E94D7842} = {A205CCB0-5EDF-45ED-AACA-BBF812EEAF48}
+		{A6247E48-0ACF-4D7F-824E-97650FCF6365} = {A205CCB0-5EDF-45ED-AACA-BBF812EEAF48}
+		{3A351E5E-BF86-42F0-995B-806253EAC992} = {D438C6E5-052B-473F-9B4E-CEA37C5E6CBF}
 	EndGlobalSection
 EndGlobal
