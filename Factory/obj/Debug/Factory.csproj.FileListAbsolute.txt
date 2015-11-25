@@ -1,0 +1,6 @@
+D:\Dev\Patterns\Factory\bin\Debug\Factory.exe.config
+D:\Dev\Patterns\Factory\bin\Debug\Factory.exe
+D:\Dev\Patterns\Factory\bin\Debug\Factory.pdb
+D:\Dev\Patterns\Factory\obj\Debug\Factory.exe
+D:\Dev\Patterns\Factory\obj\Debug\Factory.pdb
+D:\Dev\Patterns\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache

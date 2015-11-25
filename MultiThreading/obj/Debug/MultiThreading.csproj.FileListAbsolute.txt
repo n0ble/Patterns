@@ -1,0 +1,6 @@
+D:\Dev\Patterns\MultiThreading\bin\Debug\MultiThreading.exe.config
+D:\Dev\Patterns\MultiThreading\bin\Debug\MultiThreading.exe
+D:\Dev\Patterns\MultiThreading\bin\Debug\MultiThreading.pdb
+D:\Dev\Patterns\MultiThreading\obj\Debug\MultiThreading.csprojResolveAssemblyReference.cache
+D:\Dev\Patterns\MultiThreading\obj\Debug\MultiThreading.exe
+D:\Dev\Patterns\MultiThreading\obj\Debug\MultiThreading.pdb

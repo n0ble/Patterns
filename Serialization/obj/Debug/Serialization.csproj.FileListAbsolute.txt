@@ -1,0 +1,8 @@
+D:\Dev\Patterns\Serialization\bin\Debug\Serialization.exe.config
+D:\Dev\Patterns\Serialization\bin\Debug\Serialization.exe
+D:\Dev\Patterns\Serialization\bin\Debug\Serialization.pdb
+D:\Dev\Patterns\Serialization\obj\Debug\Serialization.exe
+D:\Dev\Patterns\Serialization\obj\Debug\Serialization.pdb
+D:\Dev\Patterns\Serialization\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\Patterns\Serialization\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\Patterns\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
